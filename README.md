@@ -6,4 +6,13 @@ Minha primeira página Markdown.
 Wellington Sarmento
 
 ## Instituição
-Universidade federal do Ceará
+Universidade Federal do Ceará
+
+## Minha Tabela
+
+| Requisitos | Descrição | Status |
+|------------|-----------|---------|
+| RF0001: Cadastrar Cliente | Como administrador posso cadastrar um usuário como cliente para que ele possa acessar o sistema | Não Iniciado |
+| RF0001: Cadastrar Cliente | Como administrador posso cadastrar um usuário como cliente para que ele possa acessar o sistema | Não Iniciado |
+| RF0001: Cadastrar Cliente | Como administrador posso cadastrar um usuário como cliente para que ele possa acessar o sistema | Não Iniciado |
+
